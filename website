@@ -529,7 +529,7 @@
     <script>
         // Конфигурация API
         const API_CONFIG = {
-            API_KEY: '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',
+            API_KEY: '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',
             API_URL: 'https://openrouter.ai/api/v1/chat/completions'
         };
 
