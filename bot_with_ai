@@ -4,7 +4,7 @@ import telebot
 from telebot import types
 
 # Replace with your OpenRouter API key
-API_KEY = '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'
+API_KEY = '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'
 API_URL = 'https://openrouter.ai/api/v1/chat/completions'
 
 token = "7796348346:AAE5MxgCkbE-_thS3J7KDylJ_OyuZINkoNw"
