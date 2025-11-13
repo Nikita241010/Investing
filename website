@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CheckPredict • AI-анализ крипто-предсказаний</title>
+    <title>Famous Crypto • AI-анализ крипто-предсказаний</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         * {
@@ -379,7 +379,7 @@
             <div class="logo">
                 <i class="fas fa-crystal-ball"></i>
             </div>
-            <h1 class="title">CheckPredict</h1>
+            <h1 class="title">Famous Crypto</h1>
             <p class="subtitle">
                 AI-анализ точности крипто-предсказаний в реальном времени. 
                 Узнайте, каким экспертам можно доверять на волатильном рынке.
@@ -392,7 +392,7 @@
             <section class="features">
                 <h2 class="section-title">
                     <i class="fas fa-star"></i>
-                    Почему выбирают CheckPredict?
+                    Почему выбирают Famous Crypto?
                 </h2>
                 <div class="features-grid">
                     <div class="feature-card">
@@ -519,7 +519,7 @@
 
         <!-- Footer -->
         <footer class="footer">
-            <p>© 2024 CheckPredict • AI-анализ крипто-прогнозов в реальном времени</p>
+            <p>© 2024 Famous Crypto • AI-анализ крипто-прогнозов в реальном времени</p>
             <p style="margin-top: 10px; opacity: 0.8;">
                 Powered by DeepSeek AI • OpenRouter API • Real-time Data Processing
             </p>
@@ -578,7 +578,7 @@
                         'Authorization': `Bearer ${API_CONFIG.API_KEY}`,
                         'Content-Type': 'application/json',
                         'HTTP-Referer': window.location.origin,
-                        'X-Title': 'CheckPredict AI Analyzer'
+                        'X-Title': 'Famous Crypto AI Analyzer'
                     },
                     body: JSON.stringify({
                         "model": "deepseek/deepseek-chat-v3.1",
@@ -762,7 +762,7 @@
 
         // Инициализация
         document.addEventListener('DOMContentLoaded', function() {
-            console.log('🚀 CheckPredict инициализирован');
+            console.log('🚀 Famous Crypto инициализирован');
             personInput.focus();
             updateStats();
         });
